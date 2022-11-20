@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Andrew! 👋
+
+- 📄 View my resume at https://andrewkim.tech
+- 🧑‍💻 Connect with me on [LinkedIn](https://linkedin.com/in/ahkim3)
+- 👇 Check out my projects below!
 
 <!--
 **ahkim3/ahkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
