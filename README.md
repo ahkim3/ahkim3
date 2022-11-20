@@ -2,6 +2,7 @@
 
 - 📄 View my resume at https://andrewkim.tech
 - 🧑‍💻 Connect with me on [LinkedIn](https://linkedin.com/in/ahkim3)
+- 🏆 Won hackathons at [TigerHacks](https://spacenav.andrewkim.tech/), [VandyHacks](https://devpost.com/software/max-cash), and [JPMorgan Chase's Code For Good](https://www.linkedin.com/feed/update/urn:li:activity:6985660164662075392/)
 - 👇 Check out my projects below!
 
 <!--
