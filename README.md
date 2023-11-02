@@ -3,7 +3,7 @@
 - 📄 View my resume at https://andrewkim.tech
 - 🧑‍💻 Connect with me on [LinkedIn](https://linkedin.com/in/ahkim3)
 - 🏆 Won hackathons at [Google](https://github.com/ahkim3/google-hackathon-23), [JPMorgan Chase](https://www.linkedin.com/feed/update/urn:li:activity:6985660164662075392/), [TigerHacks](https://spacenav.andrewkim.tech/), and [VandyHacks](https://devpost.com/software/max-cash).
-- ⚙️ Familiar with C++, C, Java, JavaScript, Python, Full-Stack Web Development (LAMP Stack & PERN Stack), and Android OS Development.
+- ⚙️ Familiar with C++, C#, Java, JavaScript, Python, DevOps (K8s, AWS, GCP), WebDev (LAMP/PERN), and Android OS Development.
 - 👇 Check out my projects below!
 
 <!--
